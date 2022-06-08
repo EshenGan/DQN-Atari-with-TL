@@ -1,5 +1,5 @@
 # DQN-Atari-with-TL
-An experiment on doing Transfer Learning on DQN agent in Atari 2600 games
+An experiment of applying Transfer Learning on DQN agent in Atari 2600 games
 
 comparing DQN agent trained ONLY for total of 1 million action steps on Space Invaders from scratch with another DQN agent that is pre trained on Breakout for 1 million steps before transferring CNN layers to Space Invaders to train for 1 million steps
 
