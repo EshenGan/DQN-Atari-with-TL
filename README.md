@@ -13,5 +13,5 @@
     - DQN agent w/o TL : https://drive.google.com/drive/folders/1qvVYLfN8dghO2hSVGs9ruVDZzPV4rEux?usp=sharing
     - DQN agent w TL : https://drive.google.com/drive/folders/1Eu7GmiWmvEw_vlUoo2jA-TALR0oO9BqB?usp=sharing
 
-### Experiment results are presented in ***Experiments.ipynb*** and explained in the report 
+### Experiment results are presented in ***Experiments.ipynb*** and explained in the report, ***COMP3004_20113536.pdf***
 
